@@ -1,0 +1,21 @@
+{
+  "name": "monokai-dark-by-lffspaniol",
+  "displayName": "Monokai Dark by lffspaniol",
+  "description": "based in https://marketplace.visualstudio.com/items?itemName=waycowei.monokai-vscode-dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark lffs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Dark lffs-color-theme.json"
+      }
+    ]
+  }
+}
